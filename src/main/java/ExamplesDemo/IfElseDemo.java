@@ -12,7 +12,7 @@ public class IfElseDemo {
 			System.out.println("Not eligible for vote");
 		}
 
-		System.out.println("Proceed to vote");
+		System.out.println("Votting Start");
 
 	}
 
